@@ -1,0 +1,137 @@
+[
+        {
+            "name": "Kylo Ren",
+            "email": "kren@email.com",
+            "role": "Sales Person",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 27, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "status" : true,
+            "last_login": "today"
+        },
+
+        {
+            "name": "Luke Skywalker",
+            "email": "luke@email.com",
+            "role": "Sales Management",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "last_login": "today",
+            "status" : false
+        },
+        {
+            "name": "Mandalorian",
+            "email": "mando@email.com",
+            "role": "Administrator",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "last_login": "yesterday",
+            "status" : true
+        },
+
+        {
+            "name": "Obi-Wan Kenobi",
+            "email": "obiwan@email.com",
+            "role": "Sales Person",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "last_login": "yesterday",
+            "status" : "true"
+        },
+        {
+            "name": "Boba Fett",
+            "email": "bfett@email.com",
+            "role": "Sales Manager",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "last_login": "yesterday",
+            "status" : false
+        },
+        {
+            "name": "Han Solo",
+            "email": "solo@email.com",
+            "role": "Sales Manager",
+            "global_permission": [
+                {    
+                "permission_name": "Administrator",
+                "privileges": ["Delete User", "Create User"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                },
+                {    
+                "permission_name": "Sales Manager",
+                "privileges": ["Sales", "Management"],
+                "assigment_date": "Oct 31, 2020",
+                "approval_history" : "Martin Luther King"
+                }
+            ],
+            "accounting_list": ["full","view", "create"],
+            "last_login": "yesterday",
+            "status" : true
+        }
+      
+    ]
